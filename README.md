@@ -5,7 +5,7 @@ After successfully fetching the matches, they get copied to the clipboard so you
 
 This program was designed for personal use to track Stats of Custom Games (SCRIMS).
 
-Parameter:
+## Parameter:
 
 Match Count - Given a number x between 1 to 10 the last x Matches will be fetched from the users list.
 
@@ -18,6 +18,6 @@ Match Type - To filter by Queuetype, enter F for Flex Queue, C for Custom Games,
 Role - Enter the Role you want the stats for within the game. 
 
 
-Feedback: 
+## Feedback: 
 
 The User will get Feedback within two Text fields (Fetched Match + Messages) providing informations about what the Program did so far. 
